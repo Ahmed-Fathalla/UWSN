@@ -30,7 +30,7 @@ e = Simulation(
                 scaling_coef =0.0001,
                 show_plt_axis = False,
                 signal_strength_parms_dic=signal_strength_parms_dic,
-                dump_initial_simulation_experiment=0
+                dump_initial_simulation_experiment=False
                )
 # e.plot_Simulation_map()
 a = time()
