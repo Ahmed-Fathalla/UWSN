@@ -10,7 +10,7 @@ from utils.UN_simulator.positions import buoys_centers, buoy_neighbour_dict
 lst = glob('Buoy_data/*.csv')
 lst.append(lst[0])
 
-# Parameters presented in "Table 1" 
+# Parameters presented in "Table 1" for calculating "Eq. 7"
 signal_strength_parms_dic = {   
                                 'p_t':5.  ,
                                 'g_t':1  ,
