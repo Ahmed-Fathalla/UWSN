@@ -38,7 +38,8 @@ e = Simulation(
                 dump_initial_simulation_experiment=0
                )
 e.run()
-    ```
+```
+
 ## Citing
 
 If you use the proposed simulation in your work, please cite the accompanying [paper]:
