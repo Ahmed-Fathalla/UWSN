@@ -1,7 +1,9 @@
 # A Robust UWSN Handover Prediction System Using Ensemble Learning
 
 @Article{s21175777,
+
 AUTHOR = {Eldesouky, Esraa and Bekhit, Mahmoud and Fathalla, Ahmed and Salah, Ahmad and Ali, Ahmed},
+
 TITLE = {A Robust UWSN Handover Prediction System Using Ensemble Learning},
 JOURNAL = {Sensors},
 VOLUME = {21},
