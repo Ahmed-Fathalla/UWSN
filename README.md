@@ -9,9 +9,9 @@ If you use the proposed simulation in your work, please cite the accompanying [p
 
 ```bibtex
 @Article{s21175777,
-AUTHOR = {Eldesouky, Esraa and Bekhit, Mahmoud and Fathalla, Ahmed and Salah, Ahmad and Ali, Ahmed},\newline
-TITLE = {A Robust UWSN Handover Prediction System Using Ensemble Learning},\newline
-JOURNAL = {Sensors},\newline
+AUTHOR = {Eldesouky, Esraa and Bekhit, Mahmoud and Fathalla, Ahmed and Salah, Ahmad and Ali, Ahmed},
+TITLE = {A Robust UWSN Handover Prediction System Using Ensemble Learning},
+JOURNAL = {Sensors},
 VOLUME = {21},
 YEAR = {2021},
 NUMBER = {17},
