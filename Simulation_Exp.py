@@ -10,11 +10,13 @@ from utils.UN_simulator.positions import buoys_centers, buoy_neighbour_dict
 lst = glob('Buoy_data/*.csv')
 lst.append(lst[0])
 
-signal_strength_parms_dic = {   'p_t':1  ,
+# Parameters presented in "Table 1" 
+signal_strength_parms_dic = {   
+                                'p_t':5.  ,
                                 'g_t':1  ,
                                 'g_r':1  ,
-                                'c':1  ,
-                                'f':1  }
+                                'lambda':0.125  
+                             }
                                 
 e = Simulation(
                 num_sensors_per_buoy=10,
