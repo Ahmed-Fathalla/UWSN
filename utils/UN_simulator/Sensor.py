@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Ahmed Fathalla <a.fathalla@science.suez.edu.eg>
+@author: Ahmed Fathalla <fathalla_sci@science.suez.edu.eg - a.fathalla_sci@yahoo.com>
 @brief: Sensor Class
 """
 
