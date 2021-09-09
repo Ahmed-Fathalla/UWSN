@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Ahmed Fathalla <a.fathalla@science.suez.edu.eg>
+@brief: Sensor Class
+"""
+
 import numpy as np
 
 class Sensor:
