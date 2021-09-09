@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Ahmed Fathalla <fathalla_sci@science.suez.edu.eg - a.fathalla_sci@yahoo.com>
+@brief: Time stamp
+"""
+
 DayL = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun']
 import datetime
 def get_TimeStamp_str():
