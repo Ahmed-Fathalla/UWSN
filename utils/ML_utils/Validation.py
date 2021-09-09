@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Ahmed Fathalla <fathalla_sci@science.suez.edu.eg - a.fathalla_sci@yahoo.com>
+@brief: Validations methods
+"""
+
 from sklearn.model_selection import StratifiedKFold
 import copy
 import gc
@@ -120,9 +126,6 @@ def kfold_validation(model, X, y, n_splits=10, round_=4, metric_lst=metrics_, sa
     return result_df #, result_df['y_true'], result_df['y_pred'], prob
 
 from ..utils import get_index_from_pkl
-
-
-
 def hold_out_validation(model, X, y, train_test_pkl, round_=4, metric_lst=metrics_, save_plot=None):
     y = y - 1
     clf = model
