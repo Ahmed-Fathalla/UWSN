@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Ahmed Fathalla <fathalla_sci@science.suez.edu.eg - a.fathalla_sci@yahoo.com>
+@brief: Performance metrics methods
+"""
+
 from sklearn.metrics import recall_score,precision_score,f1_score,\
                             accuracy_score, roc_auc_score, \
                             classification_report, confusion_matrix
