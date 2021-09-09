@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Ahmed Fathalla <fathalla_sci@science.suez.edu.eg - a.fathalla_sci@yahoo.com>
+@brief: pickle methods
+"""
+
 import pickle
 
 def dump(fname, data, protocol=3):
