@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Ahmed Fathalla <a.fathalla@science.suez.edu.eg>
+@brief: Buoy Class
+"""
+
 class Buoy:
     def __init__(self, x=-9999, y=-9999, buoy_id=-1, neighbours_buoys = [], df=None):
         self.x = x
