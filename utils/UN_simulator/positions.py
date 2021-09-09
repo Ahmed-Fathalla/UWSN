@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Ahmed Fathalla <fathalla_sci@science.suez.edu.eg - a.fathalla_sci@yahoo.com>
+@brief: Positions and Buoys' centers data
+"""
+
 import numpy as np
 
 x, y = 0.5, 0.5  # center buoy position
