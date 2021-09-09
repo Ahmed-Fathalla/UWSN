@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Ahmed Fathalla <fathalla_sci@science.suez.edu.eg - a.fathalla_sci@yahoo.com>
+@brief: Simulation Class
+"""
+
 import os, sys, traceback, pickle
 import pandas as pd
 
