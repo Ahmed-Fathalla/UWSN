@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Ahmed Fathalla <fathalla_sci@science.suez.edu.eg - a.fathalla_sci@yahoo.com>
+@brief: Utilities functions
+"""
+
 import numpy as np
 
 def calc_distance(a, b):
