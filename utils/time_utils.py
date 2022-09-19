@@ -22,9 +22,3 @@ def get_TimeStamp_str():
     else:
         s += "*%2d_%2s_%2dAM"%(h,m,ss)
     return DayL[now.weekday()]+'_'+s.replace(' ','0').replace('*',' ')
-# get_TimeStamp_str()
-    
-# import time
-# local_time = time.ctime(time.time())
-# print('local_time:', local_    
-# local_time: Fri Nov 20 18:56:58 2020
